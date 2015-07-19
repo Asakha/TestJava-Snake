@@ -7,5 +7,7 @@ package engine;
  * 
  */
 public class Game {
+	int score;
 
+	
 }
